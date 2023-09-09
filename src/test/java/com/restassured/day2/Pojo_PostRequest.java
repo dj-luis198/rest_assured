@@ -1,4 +1,4 @@
-package day2;
+package com.restassured.day2;
 
 public class Pojo_PostRequest {
 

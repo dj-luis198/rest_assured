@@ -1,4 +1,4 @@
-package day1;
+package com.restassured.day1;
 
 import org.testng.annotations.Test;
 
